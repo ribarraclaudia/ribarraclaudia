@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/IbarraClaudia/](https://www.linkedin.com/in/IbarraClaudia/)
 
-- ⚡ Fun fact **I love the science fiction and I really want to become it true**
+- ⚡ Fun fact **I really enjoy science fiction, and I want to contribute my bit so that what we consider fiction today becomes science one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
