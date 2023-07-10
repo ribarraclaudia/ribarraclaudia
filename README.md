@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribarraclaudia&label=Profile%20views&color=0e75b6&style=flat" alt="ribarraclaudia" /> </p>
 
-- 🔭 I’m currently working on [DevMatch](https://github.com/desarrolladoresTH/devmatch-back)
+- 🔭 I’m currently working on [DevMatch]([https://github.com/desarrolladoresTH/devmatch-back](https://www.linkedin.com/in/ibarraclaudia/overlay/1635531145712/single-media-viewer/?profileId=ACoAADfBsAcBdsY2ghGJeJvnonl2R6k-fZgprEc))
 
 - 🌱 I’m currently learning **Android Studio with Kotlin**
 
 - 👯 I’m looking to collaborate on **IA projects**
 
-- 📝 I regularly write articles on [https://talentosistemas.org/](https://talentosistemas.org/)
+- 📝 I regularly collaborate on [https://talentosistemas.org/](https://talentosistemas.org/)
 
 - 💬 Ask me about **Project Managment and Backend Developing**
 
