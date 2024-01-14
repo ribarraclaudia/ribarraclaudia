@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribarraclaudia&label=Profile%20views&color=0e75b6&style=flat" alt="ribarraclaudia" /> </p>
 
-- 🔭 I’m currently working on [DevMatch](https://www.linkedin.com/in/ibarraclaudia/overlay/1635531145712/single-media-viewer/?profileId=ACoAADfBsAcBdsY2ghGJeJvnonl2R6k-fZgprEc](https://www.linkedin.com/in/ibarraclaudia/overlay/1635534145852/single-media-viewer/?profileId=ACoAADfBsAcBdsY2ghGJeJvnonl2R6k-fZgprEc)
+- 🔭 I’m currently working on [DevMatch](https://www.linkedin.com/in/ibarraclaudia/overlay/1635534145852/single-media-viewer/?profileId=ACoAADfBsAcBdsY2ghGJeJvnonl2R6k-fZgprEc)
 
 - 🌱 I’m currently learning **Android Studio with Kotlin**
 
